@@ -66,5 +66,6 @@ foreach ($random_numbers as $index) {
             </form>
         </div>
     </main>
+    <div></div>
 </body>
 </html>
